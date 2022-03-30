@@ -1,4 +1,10 @@
-# Homework-21-Advanced-Solidity
+# Advanced-Solidity
+
+In this repository I did the following:
+  1. Create the KaseiCoin Token Contract
+  2. Create the KaseiCoin Crowdsale Contract
+  3. Create the KaseiCoin Deployer Contract
+  4. Deploy and Test the Crowdsale on a Local Blockchain
 
 ![Picture1](Picture1.png)
 ![Picture2](Picture2.png)
